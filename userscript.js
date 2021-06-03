@@ -1,12 +1,15 @@
 // ==UserScript==
 // @name         Cleanup YouTube live chat for spam (r9k mode)
-// @namespace    http://tampermonkey.net/
-// @version      0.5
+// @namespace    https://github.com/Zallist
+// @version      0.6
 // @description  Cleans up youtube live chat for simple spam - Repeated messages, overused emojis
 // @author       Zallist
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/Zallist/cleanup-youtube-chat/main/userscript.js
+// @downloadURL  https://raw.githubusercontent.com/Zallist/cleanup-youtube-chat/main/userscript.js
+// @supportURL   https://github.com/Zallist/cleanup-youtube-chat/issues
 // ==/UserScript==
  
 (function() {
